@@ -1,0 +1,69 @@
+.heroAbt{
+    padding: 50px 70px;
+    height: 70vh;
+    display: flex;
+    align-items: center;
+    // justify-content: start;
+  
+}
+
+.MainH{
+    font-size: 100px;
+    color: #000;
+    margin: 1rem 0;
+    line-height: 100px;
+    font-weight: 600;
+}
+
+.abtText{
+    font-size: 25px;
+    color: #000;
+    margin: 1rem 0;
+    
+    
+}
+.traveler{
+    // style this image
+    width: 70%;
+  
+}
+
+.marq{
+    background-color: red;
+
+    .marqueeH2{
+        font-size: 70px;
+        color: rgb(255, 0, 0);
+        font-weight: 600;
+        padding: 10px 0;
+    }
+
+}
+
+.travel{
+    font-size: 20px;
+}
+
+.vissionSec{
+    padding: 50px 70px;
+    .visionH2{
+        font-size: 40px;
+    }
+}
+
+.preFooter{
+
+    .footer{
+        padding: 20px 70px;
+        font-size: 100px ;
+        font-weight: bolder;
+    }
+
+    .prLine{
+        width: 100%;
+        height: 5px;
+        background-color: #000;
+        margin: 20px 0;
+    }
+
+}
